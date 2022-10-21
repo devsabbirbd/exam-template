@@ -150,6 +150,15 @@ header li.nav-item  a {
     font-size: 20px;
     font-weight: 600;
 }
+header#header.show li.nav-item a {
+    color: #000000;
+    font-family: 'Jost', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+header#header.show li.nav-item a:hover {
+    color: #ff9083;
+}
 /* Menu Design */
 header li.nav-item{
     position: relative;
